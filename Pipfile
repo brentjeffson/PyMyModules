@@ -9,6 +9,9 @@ verify_ssl = true
 requests = "*"
 beautifulsoup4 = "*"
 pytest = "*"
+google-api-python-client = "*"
+google-auth-oauthlib = "*"
+google-auth-httplib2 = "*"
 
 [requires]
 python_version = "3.6"
